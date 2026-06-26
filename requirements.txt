@@ -1,1 +1,11 @@
-
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
+scipy
+pywavelets
+neurokit2
+antropy
+opencv-python
